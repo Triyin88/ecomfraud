@@ -5,6 +5,5 @@ plotly
 streamlit
 numpy
 streamlit-extras
-pickle
-xgboost
-BalancedBaggingClassifier
+pickle5
+
