@@ -5,5 +5,5 @@ plotly
 streamlit
 numpy
 streamlit-extras
-pickle5
+
 
